@@ -1,5 +1,5 @@
-
-"""Roll two six-sided die 6,000,000 times."""
+# fig04_01.py
+"""Roll a six-sided die 6,000,000 times."""
 import random
 
 # face frequency counters
